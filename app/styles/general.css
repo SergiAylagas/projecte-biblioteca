@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0070f3;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .h-screen {
+    height: 100vh;
+  }
